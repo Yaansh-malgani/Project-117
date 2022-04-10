@@ -1,0 +1,50 @@
+#show_sketch 
+{
+    float: right;
+}
+
+#body_back{
+    background-color: rgb(99, 231, 105);
+}
+
+h1 {
+    color: blue;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+#heading {
+    background-color:white;
+}
+
+#show_sketch
+{
+    margin-top: 10px;
+}
+.output{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+
+#input {
+    color: red;
+    font-weight: bolder;
+}
+
+#Score{
+    float: left;
+    margin-left: 50px;
+}
+
+#Timer{
+    float: right;
+    margin-right: 50px ;
+}
+
+#myCanvas
+{
+    background-color: white;
+    border-color: black ;
+}
